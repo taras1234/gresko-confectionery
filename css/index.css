@@ -2,3 +2,22 @@ h1{
     display: flex;
     justify-content:center;
 }
+
+.personallinks{
+    display: flex;
+    justify-content:center;
+}
+.map{
+    margin: 0;
+    padding: 0;
+}
+.map iframe{
+    width: 100%;
+}
+.foot{
+    display: flex;
+    justify-content:center;
+    background-color: light;
+}
+
+
